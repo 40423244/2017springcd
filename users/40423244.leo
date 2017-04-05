@@ -18,7 +18,7 @@
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
@@ -27,27 +27,69 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
-<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
-<v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
+<v t="leo.20170405092026.1" a="E"><vh>slides div</vh>
+<v t="leo.20170405092026.2"><vh>封面投影片</vh>
+<v t="leo.20170405092026.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
-<v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170405092026.4"><vh>20170222Week1</vh>
+<v t="leo.20170405092026.5" a="E"><vh>周次</vh>
+<v t="leo.20170405092026.6"><vh>Week</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20170405092026.7" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170405092026.8"><vh>上課內容1</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170405092026.9"><vh>20170301Week2</vh>
+<v t="leo.20170405092026.10" a="E"><vh>周次</vh>
+<v t="leo.20170405092026.11"><vh>Week</vh></v>
+</v>
+<v t="leo.20170405092026.12" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170405092026.13"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170405092026.14"><vh>20170308Week3</vh>
+<v t="leo.20170405092026.15" a="E"><vh>周次</vh>
+<v t="leo.20170405092026.16"><vh>Week</vh></v>
+</v>
+<v t="leo.20170405092026.17" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170405092026.18"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170405092026.19"><vh>20170315Week4</vh>
+<v t="leo.20170405092026.20" a="E"><vh>周次</vh>
+<v t="leo.20170405092026.21"><vh>Week</vh></v>
+</v>
+<v t="leo.20170405092026.22" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170405092026.23"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170405092026.24"><vh>20170322Week5</vh>
+<v t="leo.20170405092026.25" a="E"><vh>周次</vh>
+<v t="leo.20170405092026.26"><vh>Week</vh></v>
+</v>
+<v t="leo.20170405092026.27" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170405092026.28"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170405092026.29"><vh>20170329Week6</vh>
+<v t="leo.20170405092026.30" a="E"><vh>周次</vh>
+<v t="leo.20170405092026.31"><vh>Week</vh></v>
+</v>
+<v t="leo.20170405092026.32" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170405092026.33"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170405092112.1"><vh>20170405Week7</vh>
+<v t="leo.20170405092112.2" a="E"><vh>周次</vh>
+<v t="leo.20170405092112.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170405092112.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170405092112.5"><vh>上課內容1</vh></v>
 </v>
 </v>
 </v>
@@ -91,6 +133,272 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170405092026.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20170405092026.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.11"># Week 2
+</t>
+<t tx="leo.20170405092026.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.13">&lt;p align="left"&gt;
+1. https://ethercalc.org/4lirnzbeh0fl 寫各組座位表&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 說明分組座位程式碼&lt;/p&gt;
+
+&lt;p align="left"&gt;
+3. 完成 SolveSpace 四連桿機構&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170405092026.14">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405092026.15">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.16"># Week 3
+</t>
+<t tx="leo.20170405092026.17">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.18">&lt;p align="left"&gt;
+1. 完成看影片打出英文稿&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 練習在近端建立 fossil&lt;/p&gt;</t>
+<t tx="leo.20170405092026.19">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405092026.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170405092026.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.21"># Week 4
+</t>
+<t tx="leo.20170405092026.22">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.23">&lt;p align="left"&gt;
+1. 建立協同主機 2017springcd_bg1 : &lt;a href="https://mde2a2.kmol.info/cdbg1"&gt;https://mde2a2.kmol.info/cdbg1&lt;/a&gt; &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 繪製單桿機構&lt;/p&gt;
+</t>
+<t tx="leo.20170405092026.24">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405092026.25">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.26"># Week 5
+</t>
+<t tx="leo.20170405092026.27">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.28">&lt;p align="left"&gt;
+1. Fossil SCM 與 Stunnel 啟動整合&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. SolveSpace 匯出 onebar 並在 V-rep 加入馬達&lt;/p&gt;</t>
+<t tx="leo.20170405092026.29">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405092026.3">## 2017Spring 協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40423244](https://40423244.github.io/2017springcd_hw/blog/)
+&lt;/small&gt;
+
+[協同產品設計實習課程網誌](blog/index.html)
+
+
+</t>
+<t tx="leo.20170405092026.30">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.31"># Week 6
+</t>
+<t tx="leo.20170405092026.32">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.33">&lt;p align="left"&gt;
+1. 在 Onshape 及 SolveSpace 繪製出 Onebar 及 Fourbar&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 將 Fourbar 匯入 V-rep 加入馬達&lt;/p&gt;
+</t>
+<t tx="leo.20170405092026.4">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405092026.5">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.6"># Week 1
+</t>
+<t tx="leo.20170405092026.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092026.8">&lt;p align="left"&gt;
+1. 用 SciTE 將 Y:\stunnel\config 下的 stunnel.conf 開啟&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 在 cmd 輸入 ipconfig /all 查詢電腦 IP&lt;/p&gt;
+
+&lt;p align="left"&gt;
+3. 並將 stunnel.conf 的 https 的 IP 改為電腦的 IP&lt;/p&gt;
+
+&lt;p align="left"&gt;
+4. 若有使用 proxy 要指定電腦的 IP 不要經過 proxy&lt;/p&gt;
+
+&lt;p align="left"&gt;
+5. 可從 Google Chrome 設定 (proxy 設定&gt;LAN設定&gt;進階)&lt;/p&gt;</t>
+<t tx="leo.20170405092026.9">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405092112.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405092112.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092112.3"># Week 7
+</t>
+<t tx="leo.20170405092112.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405092112.5">&lt;p align="left"&gt;
+:D
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -244,91 +552,6 @@ make.start()</t>
 @others
 
 </t>
-<t tx="yen.20170120110024.10"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="yen.20170120110024.11">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
@@ -400,42 +623,6 @@ make.start()
 @others
 &lt;/div&gt;
 
-</t>
-<t tx="yen.20170120110024.6">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="yen.20170120110024.7">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
-&lt;/small&gt;
-
-[協同產品設計實習課程網誌](blog/index.html)
-
-
-</t>
-<t tx="yen.20170120110024.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
 <t tx="yen.20170120212350.1"></t>
 <t tx="yen.20170120212354.1">@language python
