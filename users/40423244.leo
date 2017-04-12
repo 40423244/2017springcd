@@ -36,7 +36,7 @@
 <v t="leo.20170405092026.2"><vh>封面投影片</vh>
 <v t="leo.20170405092026.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170405092026.4"><vh>20170222Week1</vh>
+<v t="leo.20170405092026.4" a="E"><vh>20170222Week1</vh>
 <v t="leo.20170405092026.5" a="E"><vh>周次</vh>
 <v t="leo.20170405092026.6"><vh>Week</vh></v>
 </v>
@@ -92,6 +92,14 @@
 <v t="leo.20170405092112.5"><vh>上課內容1</vh></v>
 </v>
 </v>
+<v t="leo.20170412113138.1" a="E"><vh>20170412Week8</vh>
+<v t="leo.20170412113138.2" a="E"><vh>周次</vh>
+<v t="leo.20170412113138.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170412113138.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170412113138.5"><vh>上課內容1</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -105,6 +113,7 @@
 <v t="leo.20170322105703.1"><vh>@edit 20170322.md</vh></v>
 <v t="leo.20170405084938.1"><vh>@edit 20170329.md</vh></v>
 <v t="leo.20170405084941.1"><vh>@edit 20170405.md</vh></v>
+<v t="leo.20170412113143.1"><vh>@edit 20170412.md</vh></v>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -397,7 +406,45 @@ Created by [40423244](https://40423244.github.io/2017springcd_hw/blog/)
 						
 </t>
 <t tx="leo.20170405092112.5">&lt;p align="left"&gt;
-:D
+
+&lt;p align="left"&gt;
+將py檔上傳至fossil&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/212854767" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170412113138.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170412113138.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412113138.3"># Week 8
+</t>
+<t tx="leo.20170412113138.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412113138.5">&lt;p align="left"&gt;
+  
+  
+  &lt;p align="left"&gt;
+期中自評&lt;/p&gt;
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
