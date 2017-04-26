@@ -100,12 +100,20 @@
 <v t="leo.20170412113138.5"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170423173013.1" a="E"><vh>20170419Week9</vh>
+<v t="leo.20170423173013.1"><vh>20170419Week9</vh>
 <v t="leo.20170423173013.2" a="E"><vh>周次</vh>
 <v t="leo.20170423173013.3"><vh>Week</vh></v>
 </v>
 <v t="leo.20170423173013.4" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170423173013.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170426235819.1"><vh>20170426Week10</vh>
+<v t="leo.20170426235819.2" a="E"><vh>周次</vh>
+<v t="leo.20170426235819.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170426235819.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170426235819.5"><vh>上課內容1</vh></v>
 </v>
 </v>
 </v>
@@ -123,6 +131,7 @@
 <v t="leo.20170405084941.1"><vh>@edit 20170405.md</vh></v>
 <v t="leo.20170412113143.1"><vh>@edit 20170412.md</vh></v>
 <v t="leo.20170423173021.1"><vh>@edit 20170419.md</vh></v>
+<v t="leo.20170426235904.1"><vh>@edit 20170426.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -484,6 +493,48 @@ Created by [40423244](https://40423244.github.io/2017springcd_hw/blog/)
 						
 </t>
 <t tx="leo.20170423173013.5">&lt;p align="left"&gt;
+1. Fossil Server 實習查驗 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 四連桿機構協同 Trace Point 查驗 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+3. Fourbar Walker OnShape 零件協同繪圖與組立查驗 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+4. 分組協同零件展示 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+&lt;a href="http://mde.tw/2017springcd/blog/midterm-collaboration-evaluation.html"&gt;．詳細內容&lt;/a&gt;&lt;/p&gt;</t>
+<t tx="leo.20170426235819.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170426235819.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170426235819.3"># Week10
+
+</t>
+<t tx="leo.20170426235819.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170426235819.5">&lt;p align="left"&gt;
 1. Fossil Server 實習查驗 &lt;/p&gt;
 
 &lt;p align="left"&gt;
